@@ -1,8 +1,9 @@
 # Data-Visualization_Udacity
-**Loan Data from Prosper 
-**by Ghada Bin Muhareb   
+**Loan Data from Prosper**
+**by Ghada Bin Muhareb**
 
 **Dataset**
+
 This dataset contains 113,937 loans with 81 variables on each loan, including loan amount,  borrower rate (or interest rate), current loan status, borrower income, and many others.  Since the dataset includes 81 variables it is difficult to invistigate all of them, so only few of them  will be explored. 
 
 **Summary of Findings**
